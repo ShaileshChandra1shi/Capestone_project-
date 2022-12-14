@@ -21,8 +21,8 @@ Future tred of data - Time series
 Compare and conclude the best model
 
 Tableau Dashboard link :
-		Baby dashboard - https://public.tableau.com/app/profile/ashishkumar.tiwari/viz/baby_dashboard/Dashboard1#1
-	clothing dashboard - https://public.tableau.com/app/profile/ashishkumar.tiwari/viz/clothingdashboard/Dashboard1#1
+		Baby dashboard - https://public.tableau.com/app/profile/shailesh.chandrawanshi/viz/project_16698876318130/Dashboard1?publish=yes
+	clothing dashboard - https://public.tableau.com/app/profile/shailesh.chandrawanshi/viz/project2_16700803688110/Dashboard1?publish=yes
 Solution for business improvement for baby category.
 There are some loyal customer  who wants to chunk out.
    Sarah , Amy ,Gissica , Jen\
