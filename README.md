@@ -1,4 +1,4 @@
-# Capestone_project-
+# Capestone_project-Sentiment-Analysis-on-amazon_product_review
 #Amazon_segment_analysis
 #capstone_project_Sentiment-Analysis-on-amazon_product_review
 Objective:
